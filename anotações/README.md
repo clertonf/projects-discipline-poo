@@ -12,9 +12,10 @@
   
  - O que tem dificuldade ainda?
  
-  Estou tendo BASTANTE dificuldades com repositórios, mas teve uma aula que o professor deu apenas esclarecendo as dúvidas, que inclusive dei uma outra olhada no youtube  ( em seu canal ) e estou conseguindo lidar um pouco com isso rsrs... E o programa foi bem semelhante com o "Segredos". A Aurislania me auxiliou bastante, sempre tirava dúvidas com ela, aí consegui terminar.
+    Estou tendo BASTANTE dificuldades com repositórios, mas teve uma aula que o professor deu apenas esclarecendo as dúvidas, que     inclusive dei uma outra olhada no youtube  ( em seu canal ) e estou conseguindo lidar um pouco com isso rsrs... E o programa foi  bem semelhante com o "Segredos". A Aurislania me auxiliou bastante, sempre tirava dúvidas com ela, aí consegui terminar.
   
 - Quanto tempo levou para terminar?
 
   Cerca de 3 dias, dessa vez eu não enrolei rsrs.
+  
   
