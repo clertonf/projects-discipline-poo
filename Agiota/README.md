@@ -11,7 +11,9 @@
   Como ainda estou tendo muitas dificuldades, eu aprendi agora como declara e chama as ArrayList, dentro dos loops no FOR, aprendi a desenvolver mais códigos com CRUD, e outro exemplo é como mostrar ( show all nos clientes ) que consegui fazer,juntamente com a ajuda da Aurislania, Leandro e alguns monitores do almoço com código.
   
 - O que tem dificuldade ainda?
-  Eu particulamente tenho problemas ainda com a linguagem, como havia dito, e também pela lógica do programa, e lá onde estão os projetos para fazer, não tinha o diagrama de classes, aí dificultou um pouco rsrs... Mas de resto, estou conseguindo pegar, somente praticando.
+    
+    Eu particulamente tenho problemas ainda com a linguagem, como havia dito, e também pela lógica do programa, e lá onde estão os projetos para fazer, não tinha o diagrama de classes, aí dificultou um pouco rsrs... Mas de resto, estou conseguindo pegar, somente praticando.
  
 - Quanto tempo levou para fazer a atividade?
-  Levei bastante tempo, creio que foi uma semana e uns dois dias, mas isso foi por conta que eu "enrolei" para fazer, não procurei terminar logo, meu grande defeito é esse, de não querer terminar logo, mas depois que o senhor puxou no nosso pé, já fiquei desesperado e procurei fazer rsrs.
+    
+    Levei bastante tempo, creio que foi uma semana e uns dois dias, mas isso foi por conta que eu "enrolei" para fazer, não procurei terminar logo, meu grande defeito é esse, de não querer terminar logo, mas depois que o senhor puxou no nosso pé, já fiquei desesperado e procurei fazer rsrs.
