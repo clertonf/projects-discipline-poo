@@ -7,6 +7,7 @@
   Fiz com a Aurislania, ela é minha dupla de projetos, me ajuda bastante. Procurei também auxílio de meu amigo Leandro, que cursa   ES, ele vem me  ajudando bastante,pois estava tendo MUIIITAS dificuldades com a linguagem Java, e também pela parte da lógica. Nós fizemos em um único projeto, mas criando várias classes dentro dela (CLiente, Sistema,Transação e Controlador). 
   
 - O que aprendeu e sabe fazer?
+  
   Como ainda estou tendo muitas dificuldades, eu aprendi agora como declara e chama as ArrayList, dentro dos loops no FOR, aprendi a desenvolver mais códigos com CRUD, e outro exemplo é como mostrar ( show all nos clientes ) que consegui fazer,juntamente com a ajuda da Aurislania, Leandro e alguns monitores do almoço com código.
   
 - O que tem dificuldade ainda?
