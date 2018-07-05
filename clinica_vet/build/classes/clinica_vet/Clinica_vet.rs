@@ -1,0 +1,14 @@
+clinicaveterinaria.Venda
+clinicaveterinaria.ServicoClínica
+clinicaveterinaria.Controller
+clinicaveterinaria.Cliente
+clinica_vet.Animal
+clinica_vet.Controller
+clinicaveterinaria.IO
+clinicaveterinaria.Animal
+clinica_vet.Venda
+clinica_vet.IO
+clinica_vet.ServicoClínica
+clinica_vet.Cliente
+clinica_vet.Serviço
+clinicaveterinaria.Serviço
