@@ -1,2 +1,2 @@
 # Trabalhos-POO
-Repositório dos trabalhos de POO do Prof. David Sena
+Repositório dos trabalhos de programação orientada a objetos em Java, do Prof. David Sena
